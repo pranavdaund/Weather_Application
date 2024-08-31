@@ -9,6 +9,7 @@ body {
     width: 100%;
     height: 100%;
     background: #222;
+    background: linear-gradient(90deg, #ffa500, #fff, #0f0);
     /* background: linear-gradient(180deg, #fe0000, #27fc17); */
 }
 
