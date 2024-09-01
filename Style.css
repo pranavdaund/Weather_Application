@@ -5,12 +5,10 @@
     box-sizing: border-box;
 }
 
-
 .outer {
     width: 100vw;
-    height: 100vh;
+    height: 800px;
     background: linear-gradient(135deg, orange, #ffffff, #17ff68);
-   
 }
 
 .card {
