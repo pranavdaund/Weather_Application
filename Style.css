@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.outer {
+body {
     width: 100vw;
     height: 800px;
     background: linear-gradient(135deg, orange, #ffffff, #17ff68);
