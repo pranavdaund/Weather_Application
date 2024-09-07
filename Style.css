@@ -139,11 +139,9 @@ body {
         border-radius: 10px;
         padding: 20px 17px;
         top: 50px;
-        left: 35%;
-        right: 35%;
+        left: 15%;
+        right: 15%;
     }
-
-
 
     .search input {
 
@@ -229,8 +227,8 @@ body {
         border-radius: 15px;
         padding: 30px 26px;
         top: 75px;
-        left: 35%;
-        right: 35%;
+        left: 25%;
+        right: 25%;
     }
 
 
