@@ -1,7 +1,7 @@
 
 Here’s a project description you can use for your Weather Application on GitHub:
 
-Weather Application 🌦️
+## Weather Application 🌦️
 This Weather Application provides real-time weather data for any location using the OpenWeatherMap API. It features a responsive and user-friendly interface, allowing users to search for weather conditions, including temperature, humidity, and wind speed, by entering the name of a city or using geolocation.
 
 🔧 Technologies Used:
