@@ -1,8 +1,9 @@
-# Weather_Application
+## Weather_Application Description
+
 This Project used HTML5, CSS3 &amp; JavaScript Technologies
 //Main file
 
-# Weather Application Result
+## Weather Application Result
 
 
 https://github.com/user-attachments/assets/4f2a9b48-4c1b-4517-9843-8c3286284b2e
