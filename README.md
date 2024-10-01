@@ -9,15 +9,17 @@ This Weather Application provides real-time weather data for any location using 
 2. CSS: Custom styling to ensure a modern, responsive design.
 3. JavaScript: Core logic for handling user input, API integration, and dynamic content rendering.
 4. OpenWeatherMap API: To fetch real-time weather data.
+   
 ✨ Key Features:
-Displays current weather data such as temperature, humidity, and wind speed.
-Responsive design for cross-device compatibility (mobile, tablet, and desktop).
-Location-based search functionality for weather information.
-Real-time API integration for fetching accurate weather information.
+1. Displays current weather data such as temperature, humidity, and wind speed.
+2. Responsive design for cross-device compatibility (mobile, tablet, and desktop).
+3. Location-based search functionality for weather information.
+4. Real-time API integration for fetching accurate weather information.
+   
 🚀 Future Enhancements:
-Adding hourly and weekly weather forecasts.
-Option to toggle between Celsius and Fahrenheit.
-Implementation of dark/light mode for a better user experience.
+1. Adding hourly and weekly weather forecasts.
+2. Option to toggle between Celsius and Fahrenheit.
+3. Implementation of dark/light mode for a better user experience.
 
 
 
